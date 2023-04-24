@@ -6,7 +6,7 @@ Run instructions:
   ./a.out <file name containing tabular form of eNFA, test-p1.txt included as an example test>
   NFA will be printed into standard output
   
- ##Part 2: Simulate checking a string to see if it is accepted by an NFA
+ ## Part 2: Simulate checking a string to see if it is accepted by an NFA
  Run instructions: 
   g++ Graph.cpp State.cpp simulate.cpp
   ./a.out <file name containing tabular for of NFA, test-p2.txt included as an example test>
