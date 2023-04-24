@@ -1,0 +1,6 @@
+build:
+    g++ simulate.cpp State.cpp Graph.cpp
+    mv a.out my_simulator
+
+run:
+    ./my_simulator

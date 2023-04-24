@@ -1,0 +1,5 @@
+Build:
+	g++ EpsilonRemover.cpp Graph.cpp State.cpp
+	mv a.out my_epsilonRemover
+Run:
+	./my_epsilonRemover
