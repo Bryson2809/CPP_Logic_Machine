@@ -9,8 +9,8 @@ Run instructions:
   
  ## Part 2: Simulate checking a string to see if it is accepted by an NFA
  Run instructions: 
-  g++ Graph.cpp State.cpp simulate.cpp -o simulate
-  ./a.out <file name containing tabular for of NFA>
-  /*Check e-remove folder for tabular forms of NFAs, these are the text files ending in output, and are the expected outcomes of the eNFAs from part 1.
-  input strings into standard input and their acceptance will be printed through standard output
-  terminate program with control/command c
+  ### g++ Graph.cpp State.cpp simulate.cpp -o simulate
+  ### ./a.out <file name containing tabular for of NFA>
+  ### /*Check e-remove folder for tabular forms of NFAs, these are the text files ending in output, and are the expected outcomes of the eNFAs from part 1.
+  ### input strings into standard input and their acceptance will be printed through standard output
+  ### terminate program with control/command c
