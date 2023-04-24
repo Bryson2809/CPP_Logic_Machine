@@ -2,10 +2,10 @@
 
 ## Part 1: Convert an epsilon NFA to an NFA
 Run instructions:
-  g++ Graph.cpp State.cpp EpsilonRemover.cpp -o e-remove
-  ./a.out <file name containing tabular form of eNFA>
-  /*Check e-remove folder for tabular form tests given by the professor as well as the expected outcomes of the tests*/
-  NFA will be printed into standard output
+  g++ Graph.cpp State.cpp EpsilonRemover.cpp -o e-remove \n
+  ./a.out <file name containing tabular form of eNFA> \n
+  /*Check e-remove folder for tabular form tests given by the professor as well as the expected outcomes of the tests*/ \n
+  NFA will be printed into standard output \n
   
  ## Part 2: Simulate checking a string to see if it is accepted by an NFA
  Run instructions: 
